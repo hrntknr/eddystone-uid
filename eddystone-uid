@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const bleno = require('bleno')
 const os = require('os')
 

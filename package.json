@@ -11,5 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "bleno": "^0.5.0"
+  },
+  "bin": {
+    "eddystone-uid": "eddystone-uid"
   }
 }
